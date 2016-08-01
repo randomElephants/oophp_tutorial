@@ -1,5 +1,4 @@
 <?php
-//This does not seem very OOP to me?
 //this file will be the src for an img tag
 require 'ThumbnailImage.php';
 $path = $_GET["path"];
